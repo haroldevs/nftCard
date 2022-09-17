@@ -159,3 +159,10 @@ body{
 .attribution a { 
     color: hsl(215, 51%, 70%); 
 }
+
+@media(min-width:1440px){
+    .card{
+        margin-top: 100px;
+        height: 70vh;
+    }
+ }
